@@ -212,4 +212,10 @@ li{
   .mainSlut {
     max-width: 500px;
   }
+  .heading{
+    font-size: 70px;
+  }
+  .subHeading {
+    font-size: 22px;
+  }
 }
