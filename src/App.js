@@ -10,7 +10,7 @@ function App() {
 
   const contract = "TBA";
   const supply ="69.696.696";
-  const ticker = "$SLUT";
+  const ticker = "$BDSM";
 
   return (
     <div className="App">
@@ -49,7 +49,7 @@ function App() {
                   </h1>
                   <p className="subHeading">
                     Tied up slut is ready to be drained by degens tongue! <br />to be able to do that , you need to have atleast<br />
-                    10000 $TIED on your wallet balance.
+                    10000 $BDSM on your wallet balance.
                   </p>
                   <a href="https://raydium.io/"><button className="mainButton">
                     BUY {ticker}
