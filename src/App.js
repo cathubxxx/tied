@@ -68,7 +68,7 @@ function App() {
           <div className="tokenomics" id="tokenomics">
             <div className="tokInside">
               <div className="slutBlock">
-                <img className="slut" src={tokenSlut} />
+                <img alt="slut" className="slut" src={tokenSlut} />
               </div>
               <div className="slutBlockText">
                 <h2 className="tokenomicsHeading">
@@ -80,7 +80,7 @@ function App() {
                 <h2 className="tokenomicsText">LP BURN: BURNED</h2>
               </div>
               <div className="slutBlock">
-                <img className="slut" src={tokenSlut2} />
+                <img alt="slut" className="slut" src={tokenSlut2} />
               </div>
             </div>
           </div>
