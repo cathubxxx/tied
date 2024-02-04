@@ -37,7 +37,7 @@ function App() {
             <div className="buy layout" id="buy">
               <div className="buyContent">
                 <div className="imgBlock">
-                  <img alt="Adolfin" src={mainSlut}/>
+                  <img className="mainSlut" alt="Adolfin" src={mainSlut}/>
                 </div>
                 <div className="textBlock">
                   <div className="contractBlock">

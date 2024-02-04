@@ -207,3 +207,9 @@ li{
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+@media only screen and (max-width: 1440px) {
+  .mainSlut {
+    max-width: 500px;
+  }
+}
